@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9aaeebe3-1bef-4136-b80d-f4b574d4d92d" name="literary-mutilator" url="http://bootcamp-coders.cnm.edu/~jsilva85/literary-mutilator">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/jsilva85/public_html/literary-mutilator" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
